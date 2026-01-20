@@ -1,5 +1,5 @@
 <script setup>
-// 1. Bagian Import (Sudah benar)
+
 import HelloWorld from './components/HelloWorld.vue'
 import landingpage from "./components/landingpage.vue"
 import loginapp from "./components/loginform.vue"
@@ -17,5 +17,5 @@ import dashboard from "./components/dashboard.vue"
 </template>
 
 <style scoped>
-/* Tambahkan CSS jika perlu */
+
 </style>
