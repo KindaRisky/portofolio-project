@@ -1,5 +1,4 @@
 <script setup>
-
 import HelloWorld from './components/HelloWorld.vue'
 import landingpage from "./components/landingpage.vue"
 import loginapp from "./components/loginform.vue"
