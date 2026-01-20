@@ -1,5 +1,4 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
 import landingpage from "./components/landingpage.vue"
 import loginapp from "./components/loginform.vue"
 import dashboard from "./components/dashboard.vue"
@@ -7,14 +6,10 @@ import dashboard from "./components/dashboard.vue"
 
 <template>
   <div>
-    <HelloWorld msg="Vite + Vue" /> 
+    <HelloWorld msg="Portofolio Saya" />
 
     <landingpage />
     <loginapp />
     <dashboard />
   </div>
 </template>
-
-<style scoped>
-
-</style>
