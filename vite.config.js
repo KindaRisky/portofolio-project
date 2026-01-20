@@ -7,7 +7,6 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: {
-        index: "index.html",
         landingpage: "landingpage.html",
         loginform: "loginform.html",
         dashboard: "dashboard.html"
