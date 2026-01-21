@@ -1,4 +1,4 @@
-Ini adalah proyek portofolio pribadi yang dibangun menggunakan **Vue 3** dan **Vite**. Proyek ini menampilkan integrasi antarmuka modern yang terdiri dari halaman landing, formulir login, dan sistem dashboard.
+Proyek portofolio pribadi yang dibangun menggunakan **Vue 3** dan **Vite**. Proyek ini menampilkan integrasi antarmuka modern yang terdiri dari halaman landing, formulir login, dan sistem dashboard.
 
 ## Live Demo
 Lihat hasil jadinya di sini:  
