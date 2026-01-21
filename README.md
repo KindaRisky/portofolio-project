@@ -1,5 +1,19 @@
-# Vue 3 + Vite
+Ini adalah proyek portofolio pribadi yang dibangun menggunakan **Vue 3** dan **Vite**. Proyek ini menampilkan integrasi antarmuka modern yang terdiri dari halaman landing, formulir login, dan sistem dashboard.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Live Demo
+Lihat hasil jadinya di sini:  
+**(https://vercel.com/rizky-anandas-projects)**
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Fitur Utama
+- **Landing Page**: Pengenalan profil yang responsif.
+- **Login Form**: Antarmuka masuk dengan desain bersih.
+- **Dashboard**: Panel kendali interaktif.
+
+## Teknologi
+- **Framework**: Vue.js 3
+- **Bundler**: Vite
+- **Styling**: Bootstrap 5
+- **Deployment**: Vercel
+
+---
+Dibuat oleh Rizky Ananda
